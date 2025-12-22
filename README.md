@@ -3,7 +3,8 @@
 ## R Statistics Practice
 
 통계계산소프트웨어 수업 및 개인 연습을 통해 작성한
-R 기초 분석 코드들을 정리한 repository입니다.
+R 기초 분석 코드들을 정리한 repository입니다. 이 repository는 통계계산소프트웨어 수업에서 작성한
+연습 코드들을 지원 준비 과정에서 정리한 것입니다.
 
 ### Topics
 - Data summarization
