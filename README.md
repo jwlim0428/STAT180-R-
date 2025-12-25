@@ -7,7 +7,7 @@ R 기초 분석 코드들을 정리한 repository입니다. 이 repository는 �
 연습 코드들을 학회 지원 준비 과정에서 정리한 것입니다.
 
 
-## 📊 Representative Visualizations (Final Project)
+## Representative Visualizations (Final Project)
 
 > 기말 최종 과제에서 수행한 대표적인 데이터 시각화 사례입니다.  
 > `ggplot2`를 활용하여 변수 유형에 맞는 시각화 기법을 적용하는 데 중점을 두었습니다.
